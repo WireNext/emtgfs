@@ -324,11 +324,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 643,643,Sapadors - Policia Nacional,Sapadors 63 - VALÃNCIA,39.4554965978135,-0.366882058334511,,,0,,0
 644,644,Sapadors - Dos d'Abril,Sapadors 33 - VALÃNCIA,39.4574062911317,-0.368063774003377,,,0,,0
 645,645,Sapadors - Sant Gregori ,Sapadors 5 - VALÃNCIA,39.4590554039932,-0.368969389080854,,,0,,0
-649,649,Germans Maristes - Institut Font de Sant LluÃ­s,Germans Maristes 20 (DAVANT JARDÃ) - VALÃNCIA,39.4535611445339,-0.363236494941891,,,0,,0
-650,650,Poliesportiu Fonteta de Sant LluÃ­s (front),Germans Maristes 16 (DAVANT) - VALÃNCIA,39.4525005208312,-0.365797017987239,,,0,,0
-652,652,Germans Maristes (parell) - Fonteta de Sant LluÃ­s ,Germans Maristes 8 - VALÃNCIA,39.4511155242178,-0.368553526670633,,,0,,0
-653,653,Poliesportiu Fonteta de Sant LluÃ­s,Germans Maristes 16 - VALÃNCIA,39.4519976975938,-0.366444684992878,,,0,,0
-654,654,Germans Maristes - Institut Jordi de Sant Jordi,Germans Maristes 20 - VALÃNCIA,39.4534560232545,-0.363041487873108,,,0,,0
 657,657,Font d'en Corts - Levantina Alegre,Font d'En Corts 54 - VALÃNCIA,39.4480154400785,-0.360160516339763,,,0,,0
 658,658,Font d'en Corts (parell) - Roig de Lagarda,Font d'En Corts 88 - VALÃNCIA,39.445621547027,-0.358347241422829,,,0,,0
 659,659,Font d'en Corts (parell) - Matador d'en Corts,Font d'En Corts 161 (DAVANT) - VALÃNCIA,39.4427156033454,-0.356017948807241,,,0,,0
@@ -386,7 +381,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 726,726,Regne de ValÃ¨ncia - Gregori Maians,Regne de ValÃ¨ncia 11 - VALÃNCIA,39.4648209186179,-0.372553087331823,,,0,,0
 728,728,Pintor Salvador Abril - Mestre Josep Serrano,Pintor  Salvador Abril 14 - VALÃNCIA,39.4637161949785,-0.37087060656106,,,0,,0
 731,731,JoaquÃ­n Costa - Regne de ValÃ¨ncia,JoaquÃ­n Costa 56 - VALÃNCIA,39.463528127842,-0.365382407609574,,,0,,0
-732,732,Ciscar - Mestre Racional,Ciscar 61 - VALÃNCIA,39.4635078437234,-0.363825423797365,,,0,,0
 733,733,Ciscar - Borriana,Ciscar 31 - VALÃNCIA,39.4653620756149,-0.365137303327015,,,0,,0
 734,734,Ciscar - Comte d'Altea,Ciscar 11 - VALÃNCIA,39.4671375990473,-0.366356860565621,,,0,,0
 737,737,Sant Vicent MÃ rtir - Giorgeta,Sant Vicent MÃ rtir 188 (DAVANT) - VALÃNCIA,39.4603975656666,-0.382704231044045,,,0,,0
@@ -541,7 +535,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1138,1138,Ferrer i BignÃ© - SantÃ­ssima Creu,Ferrer i BignÃ© 67 - BENIFARAIG,39.5297412539938,-0.385591986758257,,,0,,0
 1139,1139,Ferrer i BignÃ© - Nelo el Fariner,Ferrer i BignÃ© 97 - BENIFARAIG,39.530800085416,-0.385341211894302,,,0,,0
 1140,1140,CamÃ­ de Moncada - Gasolinera,Montcada 341 - VALÃNCIA,39.5122945724875,-0.386464264145788,,,0,,0
-1141,1141,Germans Maristes (imparell) - Fonteta de Sant LluÃ­s ,Germans Maristes 14 (DAVANT) - VALÃNCIA,39.4516238611341,-0.367827967554138,,,0,,0
 1143,1143,Centre de Salut Fonteta,Gravador JordÃ¡n 74 - VALÃNCIA,39.4425077251307,-0.368161745012111,,,0,,0
 1145,1145,Campus de Burjassot,Vicent AndrÃ©s EstellÃ¨s S/N - BURJASSOT,39.5089554642966,-0.420535566102207,,,0,,0
 1148,1148,Font d'en Corts (imparell) - Alqueria Reial,Font d'En Corts 67-69 - VALÃNCIA,39.4475363980141,-0.35967982326959,,,0,,0
