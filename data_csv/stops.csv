@@ -78,8 +78,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 192,192,Primat Reig - CamÃ­ Vera,Primat Reig 181 - VALÃNCIA,39.4803150840453,-0.357935418906495,,,0,,0
 194,194,Primat Reig - Emili BarÃ³,Primat Reig 123 - VALÃNCIA,39.4842369131319,-0.363221269502899,,,0,,0
 197,197,Primat Reig - Sant Vicent de PaÃ¼l,Primat Reig 35 - VALÃNCIA,39.4900468782268,-0.371041979797436,,,0,,0
-198,198,Pare ViÃ±as - Reig GenovÃ©s,Pare ViÃ±as 46 - VALÃNCIA,39.4921700143971,-0.371618893116698,,,0,,0
-199,199,Pare ViÃ±as - Duc de Mandas,Pare ViÃ±as 72 - VALÃNCIA,39.4941266874631,-0.370439011225175,,,0,,0
+198,198,Pare ViÃ±as - Reig GenovÃ©s,Pare ViÃ±as 46 - VALÃNCIA,39.4920810087435,-0.371732887121368,,,0,,0
+199,199,Pare ViÃ±as - Duc de Mandas,Pare ViÃ±as 72 - VALÃNCIA,39.4942394931708,-0.370418224235853,,,0,,0
 200,200,Pare ViÃ±as - Daroca,Pare ViÃ±as 92 - VALÃNCIA,39.4957885521837,-0.369006364093352,,,0,,0
 202,202,Sant Joan Bosco - Daroca,Sant Joan Bosco 87 - VALÃNCIA,39.4966044952136,-0.369854350089009,,,0,,0
 206,206,Primat Reig - Bilbao,Primat Reig 14 - VALÃNCIA,39.4901534998608,-0.371488794365309,,,0,,0
@@ -495,7 +495,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1028,1028,Mare de DÃ©u de Lepant (imparell) - Escultor Frederic Siurana,Mare de DÃ©u de Lepant 7 - CASTELLAR-OLIVERAL,39.4295031270457,-0.363665970067395,,,0,,0
 1029,1029,Vicent Puchol - Font de Bonet,Vicent Puchol 72 - CASTELLAR-OLIVERAL,39.4266084077212,-0.364195057644636,,,0,,0
 1030,1030,Crist del Refugi - Davant Sant AgustÃ­,Crist del Refugi 60 - CASTELLAR-OLIVERAL,39.4244861327401,-0.363944336028861,,,0,,0
-1032,1032,TÃ­rig - GuÃ rdia Civil,TÃ­rig 4 - VALÃNCIA,39.4822289734154,-0.359115662841574,,,0,,0
+1032,1032,TÃ­rig - GuÃ rdia Civil,TÃ­rig 4 - VALÃNCIA,39.4820188495693,-0.359245079953129,,,0,,0
 1035,1035,AragÃ³ - FinlÃ ndia,AragÃ³ 22 (DAVANT INSTITUT) - VALÃNCIA,39.4709219926619,-0.358522514059762,,,0,,0
 1036,1036,Uruguai - VeneÃ§uela,Uruguai 38 - VALÃNCIA,39.4556435148198,-0.3870536093134,,,0,,0
 1038,1038,Arxiduc Carles (imparell) - Tres Forques,Arxiduc Carles 63 - VALÃNCIA,39.4635291545039,-0.396386207628614,,,0,,0
