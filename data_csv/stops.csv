@@ -274,14 +274,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 575,575,Sant Vicent MÃ rtir - Dolores Alcaide,Sant Vicent MÃ rtir 238 - VALÃNCIA,39.4557917625913,-0.38405670151945,,,0,,0
 576,576,Sant Vicent MÃ rtir - JoaquÃ­n Navarro,Sant Vicent MÃ rtir 278 - VALÃNCIA,39.4527911495738,-0.384697692492846,,,0,,0
 577,577,Sant Vicent MÃ rtir (parell) - Creu Coberta,Sant Vicent MÃ rtir 340 - VALÃNCIA,39.4482378630574,-0.385778743865354,,,0,,0
-578,578,Sant Vicent MÃ rtir - Enginyer Josep Sirera,Sant Vicent MÃ rtir 412 - VALÃNCIA,39.4453136171895,-0.386857915817299,,,0,,0
 579,579,Sant Vicent MÃ rtir (parell) - Arquebisbe Olaechea,Sant Vicent MÃ rtir 438 - VALÃNCIA,39.4436089256609,-0.387521337154071,,,0,,0
 580,580,Josep Soto MicÃ³ - AlcalÃ  de Xivert,JosÃ© Soto MicÃ³ 22 - VALÃNCIA,39.4399419061004,-0.388965528024172,,,0,,0
 581,581,Real de Madrid - Carretera d'Alba,Real de Madrid 26 - VALÃNCIA,39.4348175345053,-0.391038454498079,,,0,,0
 582,582,Real de Madrid - Algar del PalÃ ncia,Real de Madrid 52 - VALÃNCIA,39.4332955381855,-0.39161155715203,,,0,,0
 583,583,Real de Madrid (parell) - Eduardo Dato,Real de Madrid 100 - VALÃNCIA,39.4299291636025,-0.392912079822812,,,0,,0
 585,585,Forn d'Alcedo,Guadalquivir 32 - FORN D'ALCEDO,39.4321673641936,-0.376421314018551,,,0,,0
-586,586,La Torre,Manuel Iranzo 1 - VALÃNCIA,39.4273433335394,-0.393520453747593,,,0,,0
 588,588,Real de Madrid - HellÃ­n,Real de Madrid 39 - VALÃNCIA,39.4339585641355,-0.391121434184053,,,0,,0
 589,589,Real de Madrid - ConcepciÃ³n Arenal,Real de Madrid 15 - VALÃNCIA,39.4349413356788,-0.390817215255935,,,0,,0
 590,590,Josep Soto MicÃ³ - SÃ­ndic MojolÃ­,JosÃ© Soto MicÃ³ 41 - VALÃNCIA,39.4401277894455,-0.388782270469898,,,0,,0
@@ -508,10 +506,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1054,1054,AragÃ³ - Saragossa,AragÃ³ 4 - VALÃNCIA,39.4686498340796,-0.359977246065488,,,0,,0
 1055,1055,AragÃ³ - Ernest Ferrer,AragÃ³ 34 - VALÃNCIA,39.4728188990153,-0.356996622206953,,,0,,0
 1057,1057,Estadi de Mestalla (front),AragÃ³ 42 (ACCÃS) - VALÃNCIA,39.4749516000556,-0.355950781933368,,,0,,0
-1060,1060,Pere Cabanes - Mont Carmel,Pere Cabanes 10 - VALÃNCIA,39.4954232064719,-0.372785304651971,,,0,,0
-1061,1061,Pere Cabanes - Sant DomÃ©nec Savio,Pere Cabanes 58 - VALÃNCIA,39.4949849787601,-0.375328630177056,,,0,,0
-1062,1062,Pere Cabanes - Bisbe Laguarda,Pere Cabanes 88 - VALÃNCIA,39.4942418974074,-0.378782918476335,,,0,,0
-1067,1067,Equador - Pintor Matarana,Equador 93 (DAVANT) - VALÃNCIA,39.496078965608,-0.392778230817254,,,0,,0
 1080,1080,Sant Vicent de PaÃ¼l - PenÃ­scola,Sant Vicent de PaÃ¼l 15 - VALÃNCIA,39.4908807844071,-0.370581474898421,,,0,,0
 1083,1083,AragÃ³ - Amadeu de Savoia,AragÃ³ 25 - VALÃNCIA,39.4726482356367,-0.357689977844285,,,0,,0
 1085,1085,AragÃ³ - Xile,AragÃ³ 16 - VALÃNCIA,39.4701728811634,-0.358289503628534,,,0,,0
@@ -532,8 +526,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1128,1128,Mercat de Torrefiel,Sant DomÃ©nec Savio 94 (DAVANT) - VALÃNCIA,39.4979393918329,-0.376233980121576,,,0,,0
 1129,1129,Sant DomÃ©nec Savio - Josep Esteve,Sant DomÃ©nec Savio 51 - VALÃNCIA,39.4960892973167,-0.375505181185615,,,0,,0
 1130,1130,Pere Patrici Mey - Felip Rinaldi,Pere Patrici Mey 29 - VALÃNCIA,39.4925156252075,-0.377088555735587,,,0,,0
-1131,1131,Pintor Jacomart - Comte de Torrefiel,Pintor Jacomart 29 - VALÃNCIA,39.4964676427659,-0.377254839801274,,,0,,0
-1132,1132,MÃºsic EspÃ­ - Gravador Fabregat,MÃºsic EspÃ­ 1 (DAVANT) - VALÃNCIA,39.4970387384341,-0.374416831629223,,,0,,0
 1133,1133,Tossal del Rei,Comte de Lumiares 26 (DAVANT) - VALÃNCIA,39.4961294131898,-0.372232746516251,,,0,,0
 1134,1134,Blasco IbÃ¡Ã±ez (parell) - JosÃ© MarÃ­a Haro,Blasco IbÃ¡Ã±ez 182 - VALÃNCIA,39.4707646946203,-0.3381291746573,,,0,,0
 1136,1136,Palma de Gandia - Venta del Moro,Palma de Gandia S/N - BENIFARAIG,39.5295470511444,-0.384152244980391,,,0,,0
@@ -590,7 +582,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1274,1274,Tres Creus - Mercat de Castella,Tres Creus 10 - VALÃNCIA,39.4662217281617,-0.406402586397175,,,0,,0
 1277,1277,Primat Reig - Ministre Luis Mayans,Primat Reig 18 - VALÃNCIA,39.4897638438493,-0.370957154791487,,,0,,0
 1278,1278,Ãngel GuimerÃ  - Ferran el CatÃ²lic,Ãngel GuimerÃ  10 - VALÃNCIA,39.4703573818644,-0.384505371005064,,,0,,0
-1280,1280,Pintor Jacomart - AlcanyÃ­s,Pintor Jacomart 57 - VALÃNCIA,39.495941326532,-0.379854853676597,,,0,,0
 1282,1282,Universitats - Facultat de CiÃ¨ncies Socials,Ramon Llull SOLAR - VALÃNCIA,39.4794259262518,-0.345642427369112,,,0,,0
 1283,1283,Ramon Llull - Campus Tarongers,Ramon Llull NOVES FACULTATS - VALÃNCIA,39.4794057182378,-0.345320026667026,,,0,,0
 1289,1289,Vicent Puchol (imparell) - Centre de Salut,Vicent Puchol 25 - CASTELLAR-OLIVERAL,39.4279418020571,-0.363937185460432,,,0,,0
@@ -842,21 +833,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1827,1827,General AvilÃ©s - Pius XII,General AvilÃ©s 37 - VALÃNCIA,39.4861518842138,-0.394964587521651,,,0,,0
 1828,1828,General AvilÃ©s - Miguel Servet (imparell),General AvilÃ©s 17 ACC - VALÃNCIA,39.4871834068967,-0.392637860771212,,,0,,0
 1829,1829,General AvilÃ©s - Conchita Piquer,General AvilÃ©s 1 - VALÃNCIA,39.488019497858,-0.390596835542334,,,0,,0
-1832,1832,Equador - Salvador Tuset,Equador 93 - VALÃNCIA,39.4959670611028,-0.392857040918167,,,0,,0
-1833,1833,Equador (imparell) - Centre de Salut Assutzena,Equador S/N (JUNT.C/VERBENA) - VALÃNCIA,39.4940671130334,-0.390771542354493,,,0,,0
-1834,1834,Poeta Serrano Clavero - Equador,Poeta Serrano Clavero 43 (DAVANT) - VALÃNCIA,39.4935940715267,-0.388309515217735,,,0,,0
-1835,1835,Federico AlcÃ¡cer Aguilar - Poeta Serrano Clavero,Federico Alcacer Aguilar (Doctor En Medicina 26 (DAVANT) - VALÃNCIA,39.4949828660499,-0.386254260415412,,,0,,0
-1836,1836,Federico AlcÃ¡cer Aguilar - Joan XXIII,Federico Alcacer Aguilar (Doctor En Medicina 1 - VALÃNCIA,39.4952080314983,-0.384275442482701,,,0,,0
-1837,1837,Riu NerviÃ³n - Riu Segre,Riu NerviÃ³n 11 - VALÃNCIA,39.4956569844436,-0.382198587007499,,,0,,0
 1838,1838,Duc de Mandas - ConstituciÃ³,Duc de Mandas 8 - VALÃNCIA,39.4946906297337,-0.370859932384907,,,0,,0
 1839,1839,Duc de Mandas (parell) - Centre de Salut Arquitecte TolsÃ ,Duc de Mandas 24 - VALÃNCIA,39.4930597868705,-0.368580480591909,,,0,,0
-1840,1840,Duc de Mandas - Motilla del Palancar,Duc de Mandas 38 - VALÃNCIA,39.4908413999776,-0.365696993429287,,,0,,0
 1841,1841,Valladolid - VinarÃ²s,Valladolid 4 - VALÃNCIA,39.4895737431608,-0.362462575090443,,,0,,0
 1842,1842,Valladolid - Dolores MarquÃ©s,Valladolid 5 ACC - VALÃNCIA,39.489715577571,-0.362428866753854,,,0,,0
-1843,1843,Duc de Mandas - Alfauir ,Duc de Mandas 43 AC - VALÃNCIA,39.4912669417742,-0.366018510769445,,,0,,0
-1844,1844,Duc de Mandas (imparell) - Centre de Salut Arquitecte TolsÃ ,Duc de Mandas 24 (DAVANT) - VALÃNCIA,39.4929864984332,-0.368386170028101,,,0,,0
-1845,1845,Duc de Mandas (imparell) - Arquitecte RodrÃ­guez,Duc de Mandas 17 - VALÃNCIA,39.4943553792451,-0.370131517727123,,,0,,0
-1846,1846,Pere Cabanes - CamÃ­ Moncada,Pere Cabanes 104 - VALÃNCIA,39.4936201490389,-0.381563846016138,,,0,,0
 1847,1847,Castellonet - Joan XXIII,Castellonet de la Conquesta 1 (DAVANT) - VALÃNCIA,39.4931783178081,-0.383582629933571,,,0,,0
 1848,1848,Castellonet - Alfara del Patriarca,Castellonet de la Conquesta 19 (DAVANT) - VALÃNCIA,39.4926419591735,-0.386075114562189,,,0,,0
 1849,1849,Equador - General Llorens,Equador 34 - VALÃNCIA,39.4932292134432,-0.388127156352994,,,0,,0
@@ -1103,7 +1083,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2315,2315,Roger de LlÃ²ria - ColÃ³n,Roger de Lloria 30 - VALÃNCIA,39.4691397622426,-0.372426771096976,,,0,,0
 2316,2316,MarquÃ©s de DosaigÃ¼es,MarquÃ©s de DosaigÃ¼es 4 - VALÃNCIA,39.4732895830615,-0.374324381844164,,,0,,0
 2317,2317,Pascual i GenÃ­s - Roger de LlÃ²ria,Pascual i GenÃ­s 20 - VALÃNCIA,39.468489362073,-0.373911423518721,,,0,,0
-2318,2318,Quevedo - MuVIM,Quevedo 2 - VALÃNCIA,39.4702447253655,-0.380102801854209,,,0,,0
 2319,2319,Pare FerrÃ­s (parell) - Gregori Gea,Pare FerrÃ­s 14 - VALÃNCIA,39.483148249151,-0.384808421009376,,,0,,0
 2320,2320,Hospital Doctor Peset - Primer de Maig,Primer de Maig 76 (DAVANT) - VALÃNCIA,39.4503561653342,-0.394011612278038,,,0,,0
 2324,2324,FranÃ§a - CamÃ­ Fondo del Grao,FranÃ§a 71 (DAVANT) - VALÃNCIA,39.4578677473881,-0.341661804951684,,,0,,0
