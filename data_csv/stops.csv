@@ -894,15 +894,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1946,1946,Bulevard Sud (imparell) - Hospital La Fe,Bulevard Sud S/N (CARRIL BUS) - VALÃNCIA,39.4448941865749,-0.375654078815892,,,0,,0
 1947,1947,Bulevard Sud - Rotonda AusiÃ s March,Bulevard Sud S/N - VALÃNCIA,39.445940447027,-0.370038389808137,,,0,,0
 1949,1949,Universitats - Facultat de Magisteri,"Tarongers, dels 4 DUP - VALÃNCIA",39.4798179312321,-0.345880038829415,,,0,,0
-1950,1950,Pere II el CerimoniÃ³s - Luis Merelo y Mas,Pere Ii El Cerimonios 1-3 (DAVANT) - VALÃNCIA,39.4630654551484,-0.348864186289426,,,0,,0
-1951,1951,Pere II el CerimoniÃ³s - Vicente BeltrÃ¡n Grimal,Pere Ii El Cerimonios 17 ACC (DAVANT) - VALÃNCIA,39.4625588981976,-0.347192146891017,,,0,,0
-1952,1952,Pintor Maella - Vicent Vidal (Cronista),Pintor Maella 24 - VALÃNCIA,39.4611653152147,-0.347711526295142,,,0,,0
-1953,1953,Pintor Maella (parell) - FranÃ§a,Pintor Maella 30 - VALÃNCIA,39.4591207557357,-0.34849130982082,,,0,,0
-1954,1954,Pintor Maella - Luis Bolinches CompaÃ±,Pintor Maella 37 (DAVANT) - VALÃNCIA,39.4576065467307,-0.348192962700984,,,0,,0
-1955,1955,Pintor Maella - Menorca,Pintor Maella 37 - VALÃNCIA,39.4568892764282,-0.347416967784124,,,0,,0
-1956,1956,Pintor Maella (imparell) - FranÃ§a,Pintor Maella 33 - VALÃNCIA,39.4590421727455,-0.348291194482643,,,0,,0
-1957,1957,Pintor Maella - Balears,Pintor Maella 24 (DAVANT) - VALÃNCIA,39.4610286475262,-0.347577409065378,,,0,,0
-1958,1958,Pintor Maella - Illes CanÃ ries,Pintor Maella 3 - VALÃNCIA,39.4633797891269,-0.34644407448668,,,0,,0
 1959,1959,Blanqueria - Pare d'Ãrfens,Blanqueria 14 - VALÃNCIA,39.480419097181,-0.377821390808979,,,0,,0
 1961,1961,Alfauir - Germans Machado,Alfahuir 49 - VALÃNCIA,39.4935415607519,-0.359156568659,,,0,,0
 1962,1962,Mestre Rodrigo - Canal de NavarrÃ©s,Mestre Rodrigo (MÃºsic) 88 - VALÃNCIA,39.4909206348134,-0.407025098145903,,,0,,0
@@ -1089,8 +1080,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2296,2296,Amado Granell Mesado (imparell) - Antonio Ferrandis,Amado Granell Mesado SN - VALÃNCIA,39.4511623312519,-0.359178944569971,,,0,,0
 2297,2297,Amado Granell Mesado (imparell) - Antonio Sacramento,Amado Granell Mesado SN - VALÃNCIA,39.4527414306908,-0.360244380405469,,,0,,0
 2298,2298,Amado Granell Mesado (imparell) - Arabista Ambrosio Huici,Amado Granell Mesado 61 - VALÃNCIA,39.4557215229473,-0.362477973066322,,,0,,0
-2299,2299,Amado Granell Mesado (imparell) - La Plata,Amado Granell Mesado 49 - VALÃNCIA,39.4571142228226,-0.363484517878221,,,0,,0
-2300,2300,Amado Granell Mesado (imparell) - LluÃ­s Oliag,Amado Granell Mesado 13 - VALÃNCIA,39.4596310665694,-0.365257649969703,,,0,,0
 2301,2301,FÃ©lix del RÃ­o - CamÃ­ de Moncada,FÃ©lix del RÃ­o 1 - VALÃNCIA,39.4919572301276,-0.379714165483542,,,0,,0
 2303,2303,Andreu Alfaro - Louis Braille,Andreu Alfaro 2 (DAVANT) - VALÃNCIA,39.4975125062385,-0.394939846162222,,,0,,0
 2304,2304,DemocrÃ cia - Baladre,DemocrÃ cia 18 - VALÃNCIA,39.4739891643905,-0.397398717447936,,,0,,0
