@@ -557,6 +557,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1163,1163,Isabel de Villena - Font d'en CarrÃ²s ,Isabel de Villena 127 - VALÃNCIA,39.4811581829104,-0.325800349989793,,,0,,0
 1164,1164,Isabel de Villena - Vicent la Roda,Isabel de Villena 89 - VALÃNCIA,39.4789660656747,-0.325857512788971,,,0,,0
 1165,1165,Centre de Salut Malva-rosa,Isabel de Villena 43 - VALÃNCIA,39.4768935089469,-0.325829080612769,,,0,,0
+1168,1168,Comissaria Policia Local MarÃ­tim,Doctor Marcos Sopena 1 - VALÃNCIA,39.4630421684029,-0.328636236810173,,,0,,0
 1170,1170,Foc - Amadeu Desfilis,"Foc, del 1 - VALÃNCIA",39.4999428452636,-0.39451030445539,,,0,,0
 1175,1175,Tres Creus - Segona RepÃºblica Espanyola,Tres Creus 103 (CARRIL BUS) - VALÃNCIA,39.4586289168146,-0.402776517995884,,,0,,0
 1176,1176,Tres Creus - Doctor PÃ©rez Feliu,Tres Creus 79 (CARRIL BUS) - VALÃNCIA,39.4605506122482,-0.403986696334507,,,0,,0
@@ -647,9 +648,16 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1417,1417,Institut Obrer de ValÃ¨ncia (imparell) - Amado Granell Mesado,Institut Obrer de ValÃ¨ncia 3 - VALÃNCIA,39.454579620777,-0.360715207807195,,,0,,0
 1418,1418,Institut Obrer de ValÃ¨ncia (parell) - Amado Granell Mesado,Institut Obrer de ValÃ¨ncia 2 - VALÃNCIA,39.4544153948819,-0.36059440998422,,,0,,0
 1419,1419,Institut Obrer de ValÃ¨ncia (parell) - Autopista Saler,Institut Obrer de ValÃ¨ncia 17 (DAVANT) - VALÃNCIA,39.4560764055977,-0.356735746992686,,,0,,0
+1421,1421,Petxina - Torres  ,Petxina 53 - VALÃNCIA,39.4742104877658,-0.399309639292945,,,0,,0
+1422,1422,Petxina - PÃ©rez Galdos,Petxina 47 - VALÃNCIA,39.4746627975993,-0.396867181256303,,,0,,0
+1423,1423,Petxina - Terol,Petxina 41 - VALÃNCIA,39.476083773291,-0.393562311021939,,,0,,0
+1424,1424,Petxina - Ferran el CatÃ²lic,Petxina 28 - VALÃNCIA,39.4772143664485,-0.390759605158588,,,0,,0
+1425,1425,Petxina - TÃºria,Petxina 3 - VALÃNCIA,39.4792697182347,-0.385094297429462,,,0,,0
 1427,1427,Jacinto Benavente - Borriana,Jacinto Benavente 16 - VALÃNCIA,39.4662256285985,-0.362737901207631,,,0,,0
 1428,1428,Jacinto Benavente - Peris i Valero,Jacinto Benavente S/N - VALÃNCIA,39.4634514465532,-0.361268119900538,,,0,,0
 1430,1430,Albereda - Illes CanÃ ries,Albereda 31 - VALÃNCIA,39.4679834655729,-0.360531273566901,,,0,,0
+1431,1431,Tirso de Molina - Pius XII,Tirso de Molina 5 (ACCÃS) - VALÃNCIA,39.4785359863228,-0.392360787146289,,,0,,0
+1432,1432,Tirso de Molina - Mestre Rodrigo,Tirso de Molina 21 - VALÃNCIA,39.4767695195222,-0.396345752717158,,,0,,0
 1435,1435,Tres Creus - PrÃ­nceps de MÃ²naco,Tres Creus 22 - VALÃNCIA,39.4646583037054,-0.406279203185485,,,0,,0
 1436,1436,AusiÃ s March - Doctor Waksman,AusiÃ s March 7 - VALÃNCIA,39.4560901372624,-0.374982168294246,,,0,,0
 1438,1438,Doctor TomÃ¡s Sala - Gaspar Aguilar,Dr. TomÃ s Sala S/N (CARRIL BUS)(PAR) - VALÃNCIA,39.4493857471248,-0.394685020585298,,,0,,0
@@ -712,6 +720,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1598,1598,Illes CanÃ ries - Riu Escalona,Illes CanÃ ries 71 ACCS. - VALÃNCIA,39.4658439779106,-0.353546846944469,,,0,,0
 1599,1599,Illes CanÃ ries - Eduard BoscÃ ,Illes CanÃ ries 32 (DAVANT) - VALÃNCIA,39.4663939962757,-0.356429822840513,,,0,,0
 1602,1602,Serradora - Peanya,Serradora 11 - VALÃNCIA,39.4627508540108,-0.33757855876229,,,0,,0
+1613,1613,Comissaria Policia Local MarÃ­tim (front),Doctor Marcos Sopena S/N (VERJA PORT) - VALÃNCIA,39.46289592742,-0.328577407355703,,,0,,0
 1615,1615,Port - Saragossa,Port 2 ACCS. - VALÃNCIA,39.4680028827043,-0.359970671419264,,,0,,0
 1616,1616,Port - Eduard BoscÃ ,Port 48 - VALÃNCIA,39.466884293865,-0.356140273262127,,,0,,0
 1617,1617,Port - Riu Escalona,Port 104 - VALÃNCIA,39.4659751237736,-0.353077688111763,,,0,,0
@@ -923,6 +932,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2042,2042,Ciutat de la JustÃ­cia,Professor LÃ³pez PiÃ±ero 14 - VALÃNCIA,39.4546172544074,-0.354344036591131,,,0,,0
 2043,2043,Ãgora (front),Eduardo Primo YÃºfera S/N - VALÃNCIA,39.4529826709915,-0.350469975263979,,,0,,0
 2044,2044,OceanogrÃ fic (front),Eduardo Primo YÃºfera S/N - VALÃNCIA,39.452199126768,-0.347969750457084,,,0,,0
+2045,2045,Centre d'InvestigaciÃ³ PrÃ­ncep Felip (front),Eduardo Primo YÃºfera S/N - VALÃNCIA,39.4515593395221,-0.345021136399184,,,0,,0
 2046,2046,Barraques del Figuero (parell) - Llauradors,Ep Moreres D 1 (DAVANT) - VALÃNCIA,39.4506935037794,-0.340630675435874,,,0,,0
 2047,2047,Barraques del Figuero - Ignacio Zuloaga,Ep Moreres D 2 ACC. - VALÃNCIA,39.4496246155469,-0.336234962621704,,,0,,0
 2048,2048,Barraques del Figuero - Cocoters,Ep Moreres D S/N - VALÃNCIA,39.4497221671781,-0.336257474914237,,,0,,0
@@ -945,6 +955,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2080,2080,Germanies - Cuba,Germanies 45 - VALÃNCIA,39.4632042486079,-0.377379345989328,,,0,,0
 2084,2084,Vinalesa,Vinalesa S/N - VINALESA,39.5338613641683,-0.36814292798786,,,0,,0
 2085,2085,Torrefiel,Cecili Pla 4 - VALÃNCIA,39.4985654593183,-0.377246386999088,,,0,,0
+2093,2093,Parc de CapÃ§alera,Manuel de Falla 13 - VALÃNCIA,39.4749512748755,-0.404308898979097,,,0,,0
 2094,2094,Molinell (parell) - Pintor Genaro Lahuerta,Molinell 24 ACC - VALÃNCIA,39.4848320944657,-0.367053125880754,,,0,,0
 2095,2095,Molinell (imparell) - Pintor Genaro Lahuerta,Molinell 21 - VALÃNCIA,39.4849353659343,-0.36693447717782,,,0,,0
 2096,2096,PÃ­o Baroja - Front Bioparc,Pio Baroja 2ACC - VALÃNCIA,39.4760708452805,-0.40598490920655,,,0,,0
@@ -1052,6 +1063,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2260,2260,ColÃ³n - Pascual i GenÃ­s,ColÃ³n 13-15 - VALÃNCIA,39.4683388392669,-0.37320834926151,,,0,,0
 2261,2261,XÃ tiva - EstaciÃ³ del Nord,XÃ tiva 17 - VALÃNCIA,39.4675146348292,-0.376495263230755,,,0,,0
 2262,2262,Palmaret (parell) - Moncada,"Palmaret, del S/N - CARPESA",39.5176119525032,-0.386440534636649,,,0,,0
+2263,2263,La Marina - Metro NeptÃº,Doctor Marcos Sopena S/N (FGV) - VALÃNCIA,39.4631881536072,-0.325982591456731,,,0,,0
 2266,2266,Fra JunÃ­per Serra (parell) - Torrent,Fra JunÃ­per Serra 52 - VALÃNCIA,39.4614795870773,-0.40058388911963,,,0,,0
 2267,2267,Fra JunÃ­per Serra - Tres Forques,Fra JunÃ­per Serra 80 - VALÃNCIA,39.4633619403638,-0.40070376820063,,,0,,0
 2270,2270,Tarongers (parell) - Metro La Cadena,"Tarongers, dels 38 ACC - VALÃNCIA",39.475064791748,-0.329222219366592,,,0,,0
