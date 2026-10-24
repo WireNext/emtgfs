@@ -205,12 +205,14 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 415,415,Vall de la Ballestera (parell) - Mestre Rodrigo,Vall de la Ballestera 34 - VALÃNCIA,39.4791507970912,-0.398171371826421,,,0,,0
 419,419,Manuel de Falla - Mestre Rodrigo,Manuel de Falla 1 - VALÃNCIA,39.4762488951553,-0.39778123057707,,,0,,0
 420,420,Manuel de Falla - Professor LÃ³pez Ibor,Manuel de Falla S/N - VALÃNCIA,39.4755503686392,-0.401267447473179,,,0,,0
+422,422,Mestre Rodrigo - Manuel de Falla,Mestre Rodrigo (MÃºsic) 13 - VALÃNCIA,39.4774071986617,-0.397680215124465,,,0,,0
 425,425,PÃ©rez GaldÃ³s - DemocrÃ cia,PÃ©rez GaldÃ³s 137 - VALÃNCIA,39.4745972818744,-0.395630889959532,,,0,,0
 426,426,PÃ©rez GaldÃ³s - Torres Torres,PÃ©rez GaldÃ³s 117 - VALÃNCIA,39.4723936918792,-0.394053825245288,,,0,,0
 427,427,PÃ©rez GaldÃ³s - Olimpia Arozena Torres,PÃ©rez GaldÃ³s 95 - VALÃNCIA,39.470032561639,-0.392393650552791,,,0,,0
 428,428,Llorca - PÃ©rez GaldÃ³s,Llorca 4 - VALÃNCIA,39.4684558364456,-0.391967635251465,,,0,,0
 432,432,PÃ©rez GaldÃ³s - LladrÃ³ i MallÃ­,PÃ©rez GaldÃ³s 5 - VALÃNCIA,39.4628760342681,-0.387250005037634,,,0,,0
 436,436,Giorgeta (imparell) - Metro JesÃºs,Giorgeta 39 - VALÃNCIA,39.4591732885607,-0.384369400313734,,,0,,0
+441,441,PÃ©rez GaldÃ³s - Calixt III,PÃ©rez GaldÃ³s 88 - VALÃNCIA,39.4696215718525,-0.391763552878849,,,0,,0
 442,442,PÃ©rez GaldÃ³s - Mestre Guerrero,PÃ©rez GaldÃ³s 120 - VALÃNCIA,39.4724247230414,-0.3938245536162,,,0,,0
 445,445,Joan XXIII - Periodista Gil Sumbiela,Joan XXIII 29 - VALÃNCIA,39.4926450573016,-0.383133312858702,,,0,,0
 472,472,Petxina - RacÃ³ d'AdemÃºs,Petxina 71 - VALÃNCIA,39.4735509845398,-0.402715462594651,,,0,,0
@@ -698,6 +700,15 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1630,1630,Menorca - Eivissa,Menorca 1 - VALÃNCIA,39.4603988950775,-0.340675300589562,,,0,,0
 1631,1631,Port - Illes CanÃ ries,Port 274 - VALÃNCIA,39.4615289880565,-0.338157127133356,,,0,,0
 1646,1646,La Plata - MÃºsic Ãscar EsplÃ ,"Plata, de la 77 (DAVANT) - VALÃNCIA",39.456783364469,-0.362742101524414,,,0,,0
+1651,1651,HernÃ¡ndez LÃ¡zaro - Centre  Comercial,HernÃ¡ndez LÃ¡zaro 12 ACCS - VALÃNCIA,39.4769056900289,-0.403442276363069,,,0,,0
+1652,1652,HernÃ¡ndez LÃ¡zaro - Vall de la Ballestera,HernÃ¡ndez LÃ¡zaro 26 - VALÃNCIA,39.4788324946044,-0.403265303924044,,,0,,0
+1653,1653,Mestre Rodrigo - General AvilÃ©s,Mestre Rodrigo (MÃºsic) 40 (ACCÃS) - VALÃNCIA,39.4837667674993,-0.401860536612606,,,0,,0
+1654,1654,Mestre Rodrigo - La Safor,Mestre Rodrigo (MÃºsic) 109 (DAVANT) - VALÃNCIA,39.487067426083,-0.404325123388379,,,0,,0
+1655,1655,Mestre Rodrigo - La Plana Baixa,Mestre Rodrigo (MÃºsic) 82-A - VALÃNCIA,39.4890674210125,-0.405779638188002,,,0,,0
+1657,1657,Nou Campanar - Hospital Arnau de Vilanova,Marina Baixa BGW 11 - VALÃNCIA,39.4900997479765,-0.404302153027736,,,0,,0
+1658,1658,La Safor - Mestre Rodrigo,"Safor, La 20 (ACCÃS) - VALÃNCIA",39.4882816269518,-0.404428048305174,,,0,,0
+1659,1659,Mestre Rodrigo (imparell) - La Safor,Mestre Rodrigo (MÃºsic) 109 - VALÃNCIA,39.4869640182637,-0.404582633954688,,,0,,0
+1660,1660,Mestre Rodrigo (imparell) - General AvilÃ©s,Mestre Rodrigo (MÃºsic) 85 - VALÃNCIA,39.4837008000221,-0.402209671864509,,,0,,0
 1661,1661,PÃ­o Baroja - Bioparc,Pio Baroja S/N CARRIL BUS - VALÃNCIA,39.4762215069761,-0.406383085980662,,,0,,0
 1662,1662,Vall de la Ballestera - PÃ­o Baroja,Vall de la Ballestera 60 - VALÃNCIA,39.4786179774081,-0.404095922839444,,,0,,0
 1663,1663,Alcalde Reig (riu) - Parc Gulliver,Alcalde Reig 6 (DAVANT) - VALÃNCIA,39.4618072927506,-0.360132569280893,,,0,,0
@@ -846,7 +857,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1940,1940,Fonteta de Sant LluÃ­s,MÃºsic Cuesta S/N - VALÃNCIA,39.4417695012955,-0.368502266343726,,,0,,0
 1943,1943,Bulevard Sud - Pont,Bulevard Sud S/N (CARRIL BUS) - VALÃNCIA,39.4462182042927,-0.386450692073709,,,0,,0
 1944,1944,Bulevard Sud (parell) - Malilla,Bulevard Sud S/N (CARRIL BUS) - VALÃNCIA,39.445432768359,-0.381277921270937,,,0,,0
-1946,1946,Bulevard Sud (imparell) - Hospital La Fe,Bulevard Sud S/N (CARRIL BUS) - VALÃNCIA,39.4448941865749,-0.375654078815892,,,0,,0
+1946,1946,Bulevard Sud (imparell) - Hospital La Fe,Bulevard Sud S/N (CARRIL BUS) - VALÃNCIA,39.4449262912605,-0.375982649309147,,,0,,0
 1947,1947,Bulevard Sud - Rotonda AusiÃ s March,Bulevard Sud S/N - VALÃNCIA,39.445940447027,-0.370038389808137,,,0,,0
 1949,1949,Universitats - Facultat de Magisteri,"Tarongers, dels 4 DUP - VALÃNCIA",39.4798179312321,-0.345880038829415,,,0,,0
 1950,1950,Pere II el CerimoniÃ³s - Luis Merelo y Mas,Pere Ii El Cerimonios 1-3 (DAVANT) - VALÃNCIA,39.4630654551484,-0.348864186289426,,,0,,0
@@ -860,6 +871,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1958,1958,Pintor Maella - Illes CanÃ ries,Pintor Maella 3 - VALÃNCIA,39.4633797891269,-0.34644407448668,,,0,,0
 1959,1959,Blanqueria - Pare d'Ãrfens,Blanqueria 14 - VALÃNCIA,39.480419097181,-0.377821390808979,,,0,,0
 1961,1961,Alfauir - Germans Machado,Alfahuir 49 - VALÃNCIA,39.4935415607519,-0.359156568659,,,0,,0
+1962,1962,Mestre Rodrigo - Canal de NavarrÃ©s,Mestre Rodrigo (MÃºsic) 88 - VALÃNCIA,39.4909206348134,-0.407025098145903,,,0,,0
 1964,1964,Bulevard Sud (parell) - Hospital La Fe,Bulevard Sud S/N (CARRIL BUS) - VALÃNCIA,39.4454530586462,-0.377274917439981,,,0,,0
 1965,1965,Bulevard Sud (imparell) - Malilla,Bulevard Sud S/N (CARRIL BUS) - VALÃNCIA,39.4458060203468,-0.380815593015616,,,0,,0
 1968,1968,PlaÃ§a d'Espanya (parell) - RamÃ³n y Cajal,RamÃ³n i Cajal 18 - VALÃNCIA,39.4664499335122,-0.381949950002788,,,0,,0
@@ -897,7 +909,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2054,2054,Les Arts (riu),Professor LÃ³pez PiÃ±ero DAVANT.I.OBRER - VALÃNCIA,39.4570903309636,-0.35617274622438,,,0,,0
 2060,2060,Eivissa (parell) - Illes CanÃ ries,Eivissa 6 - VALÃNCIA,39.461196531886,-0.339736464778485,,,0,,0
 2063,2063,Vinalesa - Cases de BÃ rcena,Cases de BÃ rcena 111 - CASES DE BÃRCENA,39.5228452545642,-0.357115603788224,,,0,,0
+2064,2064,Terrateig - Jorge ComÃ­n,Terrateig 2-B - VALÃNCIA,39.4811741794283,-0.403739708072262,,,0,,0
 2066,2066,Hospital 9 d'Octubre,Vall de la Ballestera 65 - VALÃNCIA,39.4784319815393,-0.402821122368005,,,0,,0
+2067,2067,Vall de la Ballestera - Eduardo Soler i PÃ©rez,Vall de la Ballestera 43 - VALÃNCIA,39.4786414001608,-0.398882738633738,,,0,,0
+2069,2069,Terrateig - Poeta Rafael Alberti,Terrateig 1 - VALÃNCIA,39.4810942004777,-0.403873238547263,,,0,,0
 2070,2070,Ciutat Administrativa 9 d'Octubre - Cieza,Nou D'Octubre 8 ACC - VALÃNCIA,39.4717716482467,-0.405490590049662,,,0,,0
 2071,2071,Ciutat Administrativa 9 d'Octubre - LluÃ­s Lamarca,Nou D'Octubre S/N CONSELLERIES - VALÃNCIA,39.4710086974194,-0.405101205419611,,,0,,0
 2072,2072,Ciutat Administrativa 9 d'Octubre - DemocrÃ cia,Nou D'Octubre S/N - VALÃNCIA,39.4724511848896,-0.405338477748361,,,0,,0
@@ -1077,7 +1092,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2383,2383,Humanista Mariner - Fontanars,Humanista Mariner 20 - VALÃNCIA,39.4598485427537,-0.394543655813618,,,0,,0
 2384,2384,Humanista Mariner - JosÃ© Roca Coll,Humanista Mariner 39 (DAVANT) - VALÃNCIA,39.4583507821493,-0.396472835206531,,,0,,0
 2385,2385,Canonge TÃ rrega - Campaners,Canonge TÃ rrega S/N - VALÃNCIA,39.4561467937641,-0.398765453551128,,,0,,0
-2389,2389,Llevant UniÃ³ Esportiva - Federico AlcÃ¡cer Aguilar,Levante U.D. 20 - VALÃNCIA,39.4957978891749,-0.388619798143163,,,0,,0
+2389,2389,Llevant UniÃ³ Esportiva - Federico AlcÃ¡cer Aguilar,Levante U.D. 20 - VALÃNCIA,39.4958051330364,-0.38863857312295,,,0,,0
 2390,2390,Arnau de Vilanova - Doctor MollÃ ,Arnau de Vilanova 2 - VINALESA,39.5351829841307,-0.369793373891952,,,0,,0
 2391,2391,Vinalesa - PlaÃ§a d'AusiÃ s March,PlaÃ§a d'AusiÃ s March S/N - VINALESA,39.5357001356401,-0.368811685644397,,,0,,0
 2403,2403,PlaÃ§a de l'Ajuntament - Ateneu,Ajuntament S/N ATENEU - VALÃNCIA,39.470535916184,-0.376261049210969,,,0,,0
