@@ -583,7 +583,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1265,1265,Conselleria d'EducaciÃ³,Campanar CONSELLERIA - VALÃNCIA,39.4838811747782,-0.391894461877825,,,0,,0
 1266,1266,Avinguda Campanar - Centre de Salut,Campanar 21 - VALÃNCIA,39.4834006729038,-0.391867847837239,,,0,,0
 1268,1268,Tres Creus (parell) - Hospital General,Tres Creus 2 (CARRIL BUS) - VALÃNCIA,39.4682964558997,-0.406421623456784,,,0,,0
-1272,1272,Campanar - Monestir de Poblet,Pius XII 51 - VALÃNCIA,39.4850218221047,-0.396020459028534,,,0,,0
+1272,1272,Campanar - Monestir de Poblet,Pius XII 51 - VALÃNCIA,39.4850187170068,-0.395914511568611,,,0,,0
 1274,1274,Tres Creus - Mercat de Castella,Tres Creus 10 - VALÃNCIA,39.4662217281617,-0.406402586397175,,,0,,0
 1277,1277,Primat Reig - Ministre Luis Mayans,Primat Reig 18 - VALÃNCIA,39.4897638438493,-0.370957154791487,,,0,,0
 1278,1278,Ãngel GuimerÃ  - Ferran el CatÃ²lic,Ãngel GuimerÃ  10 - VALÃNCIA,39.4703573818644,-0.384505371005064,,,0,,0
@@ -703,7 +703,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1566,1566,Corts Valencianes (imparell) - Metro Beniferri,Corts Valencianes 35 - VALÃNCIA,39.4907718377523,-0.400013828395385,,,0,,0
 1574,1574,Ferran el CatÃ²lic (parell) - Metro TÃºria,Ferran El CatÃ²lic s/n - VALÃNCIA,39.4771238771447,-0.389624582318513,,,0,,0
 1584,1584,Joaquim Ballester - Pare FerrÃ­s,Joaquim Ballester 8 - VALÃNCIA,39.4846305121677,-0.386569234827174,,,0,,0
-1585,1585,Natzaret,Castell de Pop S/N - VALÃNCIA,39.4474702409079,-0.331776038597718,,,0,,0
+1585,1585,Natzaret,Castell de Pop S/N - VALÃNCIA,39.4474226027671,-0.331749215798096,,,0,,0
 1587,1587,Reina - Setmana Santa Marinera,Reina (Carrer) 3 - VALÃNCIA,39.463786581562,-0.329473964085167,,,0,,0
 1589,1589,Doctor J.J. DÃ²mine - Front Edifici del Rellotge,Doctor Josep Juan DÃ²mine 4 - VALÃNCIA,39.4605114644194,-0.33260294674205,,,0,,0
 1590,1590,Joan Verdeguer - Port,Joan Verdeguer S/N - VALÃNCIA,39.459179539198,-0.333629655703347,,,0,,0
@@ -882,7 +882,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1930,1930,Gaspar Aguilar (imparell) - Doctor TomÃ¡s Sala,Gaspar Aguilar 131 - VALÃNCIA,39.4503143233422,-0.394422011674755,,,0,,0
 1931,1931,Hospital Doctor Peset - MÃºsic Penella,Gaspar Aguilar 99 - VALÃNCIA,39.4525110898303,-0.39293336958385,,,0,,0
 1932,1932,Gaspar Aguilar - Costa i BorrÃ s,Gaspar Aguilar 49 - VALÃNCIA,39.4558764305788,-0.390663159156833,,,0,,0
-1936,1936,Sant Isidre,Campos Crespo 96 - VALÃNCIA,39.4511748222318,-0.402647624711439,,,0,,0
+1936,1936,Sant Isidre,Campos Crespo 96 - VALÃNCIA,39.4512089957294,-0.402607391247784,,,0,,0
 1937,1937,Arquitecte Segura de Lago - Doctor Rafael Bartual,Arquitecte Segura de Lago 28 - VALÃNCIA,39.4534284900265,-0.402919246901198,,,0,,0
 1938,1938,Tres Creus - BolÃ­via,Tres Creus 78 DAVANT (CARRIL BUS) - VALÃNCIA,39.4562637884252,-0.401052556861273,,,0,,0
 1940,1940,Fonteta de Sant LluÃ­s,MÃºsic Cuesta S/N - VALÃNCIA,39.4417695012955,-0.368502266343726,,,0,,0
@@ -923,7 +923,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2009,2009,Tres Creus - MÃºsic AyllÃ³n ,Tres Creus 31 - VALÃNCIA,39.4667999703202,-0.405629336684934,,,0,,0
 2014,2014,Poeta Querol - Teatre Principal,Poeta Querol 14 - VALÃNCIA,39.47080096636,-0.374266826202862,,,0,,0
 2027,2027,Port - Trafalgar,Port 204 - VALÃNCIA,39.4633736608178,-0.344268402933877,,,0,,0
-2030,2030,Alboraia,"Orxata,  de  l' 37 (DAVANT) - ALBORAIA",39.4959179262585,-0.35456367245772,,,0,,0
+2030,2030,Alboraia,"Orxata,  de  l' 37 (DAVANT) - ALBORAIA",39.495941728863,-0.354452360451751,,,0,,0
 2032,2032,Torres dels Serrans - Les Corts,Comte de TrÃ©nor 4-6 - VALÃNCIA,39.4787552200671,-0.374353591573173,,,0,,0
 2041,2041,Les Arts,Professor LÃ³pez PiÃ±ero INST.OBRER (PAR) - VALÃNCIA,39.4567913080561,-0.356689900796534,,,0,,0
 2042,2042,Ciutat de la JustÃ­cia,Professor LÃ³pez PiÃ±ero 14 - VALÃNCIA,39.4546172544074,-0.354344036591131,,,0,,0
@@ -1066,7 +1066,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2270,2270,Tarongers (parell) - Metro La Cadena,"Tarongers, dels 38 ACC - VALÃNCIA",39.475064791748,-0.329222219366592,,,0,,0
 2271,2271,Passeig MarÃ­tim - Hospital Malva-rosa,Passeig MarÃ­tim 133 ACC - VALÃNCIA,39.4744063580763,-0.324743566668989,,,0,,0
 2273,2273,OltÃ  - JoaquÃ­n Benlloch,OltÃ  40 - VALÃNCIA,39.4525467904686,-0.376667510820254,,,0,,0
-2277,2277,XÃ tiva - Institut LluÃ­s Vives,XÃ tiva 5 ACC - VALÃNCIA,39.4679992185698,-0.378354564971826,,,0,,0
+2277,2277,XÃ tiva - Institut LluÃ­s Vives,XÃ tiva 5 ACC - VALÃNCIA,39.4678822294186,-0.37819095141784,,,0,,0
 2278,2278,EstaciÃ³ del Nord - MarquÃ©s de Sotelo,MarquÃ©s de Sotelo 9 - VALÃNCIA,39.468213301823,-0.376899924553109,,,0,,0
 2279,2279,MarquÃ©s de Sotelo - PlaÃ§a de l'Ajuntament,MarquÃ©s de Sotelo 1-3 - VALÃNCIA,39.4688267005391,-0.376807664039075,,,0,,0
 2280,2280,Barques - PlaÃ§a de l'Ajuntament,Barques 4 - VALÃNCIA,39.4703534398447,-0.375478400981178,,,0,,0
@@ -1120,7 +1120,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2373,2373,Carlos Pau EspaÃ±ol - CamÃ­ del Canal,Carlos Pau EspaÃ±ol 2 ACC - VALÃNCIA,39.4428618803661,-0.335470420976409,,,0,,0
 2376,2376,Castellar - l'Oliveral - Doctor Ruiz i Comes,Doctor Ruiz i Comes S/N - CASTELLAR-OLIVERAL,39.4242084982153,-0.362144731577204,,,0,,0
 2378,2378,Canal - Punta al Mar,Canal S/N - VALÃNCIA,39.4447236357721,-0.335789347077639,,,0,,0
-2380,2380,Patraix,Borrasca 13 - VALÃNCIA,39.4547638947703,-0.398543500921043,,,0,,0
+2380,2380,Patraix,Borrasca 13 - VALÃNCIA,39.4548249890505,-0.398622625532637,,,0,,0
 2381,2381,Campos Crespo - Fra JunÃ­per Serra,Campos Crespo 36 (DAVANT) - VALÃNCIA,39.4561317798851,-0.396354817746004,,,0,,0
 2382,2382,Pius XI - Xera,Campos Crespo 25 - VALÃNCIA,39.4581550825371,-0.394100420172539,,,0,,0
 2383,2383,Humanista Mariner - Fontanars,Humanista Mariner 20 - VALÃNCIA,39.4598485427537,-0.394543655813618,,,0,,0
